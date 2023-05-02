@@ -12,7 +12,5 @@ Tecnologias:
     JavaScript
 
 Ambiente de desenvolvimento
-
-    VS Code
-    Github
-    Github Pages
+    Visual Studio Code
+    GitHub Pages
