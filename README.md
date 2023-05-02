@@ -2,3 +2,17 @@
 
 
 Acesso: https://elc1090.github.io/project2-glhrmrg/
+
+Desenvolvedor(a):
+Guilherme Garcia
+
+Tecnologias:
+    HTML
+    CSS
+    JavaScript
+
+Ambiente de desenvolvimento
+
+    VS Code
+    Github
+    Github Pages
